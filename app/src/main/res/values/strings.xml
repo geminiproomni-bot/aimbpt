@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DevAim Studio</string>
+    <string name="accessibility_service_label">DevAim Studio Sticky Aim &amp; Gesture Service</string>
+    <string name="accessibility_service_description">نظام التصويب اللصيق الذكي (Smart Sticky Aim): يرسم دائرة مجال الرؤية (FOV Cone) في منتصف الشاشة مع قفل مغناطيسي وتنبؤ حركي بمسار الأهداف وتنفيذ إيماءات التتبع والنقر البرمجية بدقة 100% عبر AccessibilityService.</string>
+    <string name="nav_sandbox">ساحة التصويب اللصيق</string>
+    <string name="nav_tuning">الالتصاق والـ Overlay</string>
+    <string name="nav_telemetry">الإيماءات والكود الذكي</string>
+    <string name="title_app_header">DevAim Studio // نظام التصويب اللصيق الذكي</string>
+    <string name="subtitle_app_header">قفل مغناطيسي 100% (Sticky Lock) + تنبؤ حركي Kalman + إيماءات AccessibilityService</string>
+    <string name="status_service_active">خدمة Accessibility + التصويب اللصيق العائم نشطة</string>
+    <string name="status_service_inactive">وضع المحاكاة اللصيق النشط (فعّل Accessibility للعمل فوق لعبتك)</string>
+    <string name="btn_enable_accessibility">تفعيل Accessibility</string>
+    <string name="btn_toggle_overlay">إظهار/إخفاء الدائرة العائمة</string>
+    <string name="btn_auto_aim_on">التصويب اللصيق: مفعل (STICKY ON)</string>
+    <string name="btn_auto_aim_off">التصويب اللصيق: متوقف (OFF)</string>
+    <string name="btn_fire_gesture">إطلاق إيماءة نقر (Dispatch Tap)</string>
+    <string name="btn_spawn_enemy">+ هدف</string>
+    <string name="btn_reset_arena">إعادة ضبط</string>
+    <string name="label_detection_angle">زاوية مجال الرؤية (detectionAngle)</string>
+    <string name="label_aim_speed">سرعة القفل الدوراني (aimSpeed / Slerp)</string>
+    <string name="label_sticky_strength">قوة الالتصاق المغناطيسي بالهدف (Sticky Adhesion)</string>
+    <string name="label_prediction_factor">معامل التنبؤ الحركي بالمسار (Velocity Lead Prediction)</string>
+    <string name="label_gesture_duration">مدة الإيماءة البرمجية (Stroke ms)</string>
+    <string name="label_enemy_speed">سرعة حركة الأهداف (Target Velocity)</string>
+    <string name="label_copy_unity_code">نسخ كود التصويب اللصيق الذكي (Unity + Android)</string>
+    <string name="label_clear_logs">مسح السجل</string>
+</resources>

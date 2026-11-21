@@ -1,0 +1,6 @@
+{
+  "name": "DevAim Studio",
+  "description": "Game developer aim-assist sandbox, FOV cone telemetry tester, and AccessibilityService gesture simulator for Unity and Android games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
